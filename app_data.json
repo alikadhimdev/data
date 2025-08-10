@@ -3,52 +3,52 @@
     {
       "id": "c1",
       "title": "جبال",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-mountain/800/600"
     },
     {
       "id": "c2",
       "title": "شواطئ",
-      "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-beach/800/600"
     },
     {
       "id": "c3",
       "title": "مدن تاريخية",
-      "imageUrl": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-historic/800/600"
     },
     {
       "id": "c4",
       "title": "صحاري",
-      "imageUrl": "https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-desert/800/600"
     },
     {
       "id": "c5",
       "title": "غابات",
-      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-forest/800/600"
     },
     {
       "id": "c6",
       "title": "جزر",
-      "imageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-island/800/600"
     },
     {
       "id": "c7",
       "title": "مغامرات ثلجية",
-      "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-snow/800/600"
     },
     {
       "id": "c8",
       "title": "أنهار وبحيرات",
-      "imageUrl": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-lake/800/600"
     },
     {
       "id": "c9",
       "title": "رحلات ثقافية",
-      "imageUrl": "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-culture/800/600"
     },
     {
       "id": "c10",
       "title": "رحلات سفاري",
-      "imageUrl": "https://images.unsplash.com/photo-1550358864-518f202c02ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      "imageUrl": "https://picsum.photos/seed/category-safari/800/600"
     }
   ],
   "trips": [
@@ -58,7 +58,7 @@
       "title": "قمة الهدوء — وادي وصخور",
       "tripType": "exploration",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t1-mountain/800/600",
       "duration": 5,
       "activities": [
         "مشي صباحي",
@@ -82,7 +82,7 @@
       "title": "ممرات السهول الجبلية",
       "tripType": "hiking",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t2-mountain/800/600",
       "duration": 7,
       "activities": [
         "مشي طويل",
@@ -108,7 +108,7 @@
       "title": "عطلة القمم الهادئة",
       "tripType": "retreat",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t3-mountain/800/600",
       "duration": 4,
       "activities": [
         "جلسات يوغا",
@@ -131,7 +131,7 @@
       "title": "تسلق القمم الصخرية",
       "tripType": "adventure",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t4-mountain/800/600",
       "duration": 6,
       "activities": [
         "تسلق جبلي",
@@ -156,7 +156,7 @@
       "title": "مغامرة البانوراما الشتوية",
       "tripType": "exploration",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t5-mountain/800/600",
       "duration": 5,
       "activities": [
         "مشي على الثلج",
@@ -180,7 +180,7 @@
       "title": "شاطئ المرجان — استجمام وغوص",
       "tripType": "activities",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t6-beach/800/600",
       "duration": 5,
       "activities": [
         "غوص موجه",
@@ -204,7 +204,7 @@
       "title": "عطلة الرمال الذهبية",
       "tripType": "relaxation",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t7-beach/800/600",
       "duration": 6,
       "activities": [
         "سباحة",
@@ -229,7 +229,7 @@
       "title": "رحلة الكاياك إلى الكهوف البحرية",
       "tripType": "adventure",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t8-beach/800/600",
       "duration": 3,
       "activities": [
         "كاياك في الكهوف",
@@ -251,7 +251,7 @@
       "title": "مهرجان الشاطئ الصيفي",
       "tripType": "cultural",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t9-beach/800/600",
       "duration": 4,
       "activities": [
         "عروض موسيقية",
@@ -274,7 +274,7 @@
       "title": "رحلة صيد وحياة بحرية",
       "tripType": "activities",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://picsum.photos/seed/t10-beach/800/600",
       "duration": 2,
       "activities": [
         "رحلة صيد قصيرة",
@@ -288,6 +288,885 @@
       "isInSummer": false,
       "isForFamilies": false,
       "isInWinter": false
+    },
+    {
+      "id": "t11",
+      "categories": ["c3"],
+      "title": "شارع الزمن — جولة في المدينة القديمة",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t11-historic/800/600",
+      "duration": 3,
+      "activities": [
+        "جولة تاريخية",
+        "زيارة متاحف",
+        "تذوق مأكولات الشارع"
+      ],
+      "program": [
+        "اليوم 1: استقبال وجولة أولية في السوق القديم.",
+        "اليوم 2: زيارة متحف محلي وقلعة وبرنامج سرد تاريخي.",
+        "اليوم 3: جولات تسوق ووداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t12",
+      "categories": ["c3"],
+      "title": "ممرات الأبراج والقصور",
+      "tripType": "exploration",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t12-historic/800/600",
+      "duration": 4,
+      "activities": [
+        "جولة أثرية",
+        "زيارة معالم تاريخية",
+        "جلسة تصوير في أزقة قديمة"
+      ],
+      "program": [
+        "اليوم 1: وصول وجولة ليلية خفيفة في الأزقة.",
+        "اليوم 2: صباح زيارة القصر الرئيسي ومسجد أثري.",
+        "اليوم 3: ورشة حِرف يدوية وتجربة أطعمة محلية.",
+        "اليوم 4: زيارة سوق التحف والمغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t13",
+      "categories": ["c3"],
+      "title": "ليالي المدينة التاريخية",
+      "tripType": "retreat",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t13-historic/800/600",
+      "duration": 5,
+      "activities": [
+        "جولات ليلية",
+        "عشاء بتقليد محلي",
+        "محاضرة تاريخية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وللتعارف مع جولة ليلية قصيرة.",
+        "اليوم 2: محاضرة عن تاريخ المدينة ثم جولة في المتاحف.",
+        "اليوم 3: زيارة معالم بعيدة وخيارات ترفيهية.",
+        "اليوم 4: ورشة طهي تقليدي وعشاء احتفالي.",
+        "اليوم 5: وداع والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t14",
+      "categories": ["c3"],
+      "title": "أسواق وحكايا",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t14-historic/800/600",
+      "duration": 2,
+      "activities": [
+        "تسوق في الأسواق التقليدية",
+        "تذوق مأكولات محلية"
+      ],
+      "program": [
+        "اليوم 1: جولة سوق كبيرة مع دليل وتذوق مأكولات الشارع.",
+        "اليوم 2: زيارة بيت تقليدي وتحضير أكلة تقليدية مع العائلة المضيفة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t15",
+      "categories": ["c3"],
+      "title": "تاريخ على الأقدام",
+      "tripType": "walking",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t15-historic/800/600",
+      "duration": 3,
+      "activities": [
+        "جولة مشي تاريخية",
+        "زيارة متاحف صغيرة"
+      ],
+      "program": [
+        "اليوم 1: جولة تعريفية بأشهر المعالم.",
+        "اليوم 2: مشي عبر الحي القديم مع توقف في معارض محلية.",
+        "اليوم 3: جلسة قهوة وداع."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t16",
+      "categories": ["c4"],
+      "title": "ليالي الصحراء العربية",
+      "tripType": "camping",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t16-desert/800/600",
+      "duration": 4,
+      "activities": [
+        "تخييم في الكثبان",
+        "ركوب جمال",
+        "أمسيات بدوية"
+      ],
+      "program": [
+        "اليوم 1: الانطلاق بالدفع الرباعي نحو المخيم.",
+        "اليوم 2: ركوب الجمال وصعود للكثبان لرؤية الغروب.",
+        "اليوم 3: ورشة طبخ بدوي وحفل موسيقي بسيط.",
+        "اليوم 4: شروق واختتام والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t17",
+      "categories": ["c4"],
+      "title": "صحراء النجوم",
+      "tripType": "stargazing",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t17-desert/800/600",
+      "duration": 3,
+      "activities": [
+        "مراقبة النجوم",
+        "سرد قصص بدوية",
+        "تصوير ليل"
+      ],
+      "program": [
+        "اليوم 1: الوصول للمخيم وتعريف بالأماكن الآمنة.",
+        "اليوم 2: جلسة مشاهدة نجوم مع مرشد فلكي وقهوة بدوية.",
+        "اليوم 3: نشاط تصوير ليلي وعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t18",
+      "categories": ["c4"],
+      "title": "سفاري الكثبان بالدراجات",
+      "tripType": "adventure",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t18-desert/800/600",
+      "duration": 2,
+      "activities": [
+        "دراجات صحراوية",
+        "تحدي التلال الرملية"
+      ],
+      "program": [
+        "اليوم 1: تدريب على الدراجة وصعود التلال الرملية.",
+        "اليوم 2: مسار مغلق للمهارات والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t19",
+      "categories": ["c4"],
+      "title": "رحلة القوافل التاريخية",
+      "tripType": "cultural",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t19-desert/800/600",
+      "duration": 5,
+      "activities": [
+        "زيارة مواقع أثرية",
+        "تعلم حكايا القوافل",
+        "تذوق مأكولات بدوية"
+      ],
+      "program": [
+        "اليوم 1: استقبال ومحاضرة عن طرق القوافل القديمة.",
+        "اليوم 2: زيارة موقع أثري صغير وجولة مرشدة.",
+        "اليوم 3: تجربة الحياة البدوية في مخيم تقليدي.",
+        "اليوم 4: نزهة صباحية ومشاركة أنشطة محلية.",
+        "اليوم 5: وداع والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": true
+    },
+    {
+      "id": "t20",
+      "categories": ["c4"],
+      "title": "التخييم الفاخر في الواحة",
+      "tripType": "luxury",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t20-desert/800/600",
+      "duration": 3,
+      "activities": [
+        "تخييم فاخر",
+        "عشاء بنكهة محلية",
+        "جلسات استرخاء"
+      ],
+      "program": [
+        "اليوم 1: وصول إلى الواحة واستقبال فاخر.",
+        "اليوم 2: أنشطة بطيئة مع جلسة سبا مسائية خارجية.",
+        "اليوم 3: فطور وداعي."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t21",
+      "categories": ["c5"],
+      "title": "ممرات الغابة المطيرة",
+      "tripType": "exploration",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t21-forest/800/600",
+      "duration": 5,
+      "activities": [
+        "مشي في الغابة",
+        "مراقبة الحياة البرية",
+        "زيارة شلالات"
+      ],
+      "program": [
+        "اليوم 1: وصول إلى مخيم الغابة وتقديم إرشادات السلامة.",
+        "اليوم 2: مسار صباحي إلى شلال مجاور مع غداء في الهواء الطلق.",
+        "اليوم 3: جولة تعلم عن النباتات المحلية واستخداماتها.",
+        "اليوم 4: رحلة بالقوارب في مجرى صغير ومراقبة طيور.",
+        "اليوم 5: تفكيك المخيم والعودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t22",
+      "categories": ["c5"],
+      "title": "مغامرة الأدغال الليلية",
+      "tripType": "adventure",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t22-forest/800/600",
+      "duration": 3,
+      "activities": [
+        "جولة ليلية",
+        "تعلم عن الحشرات والنباتات الليلية"
+      ],
+      "program": [
+        "اليوم 1: وصول وتعريف بالأدغال وقواعد السلوك الليلي.",
+        "اليوم 2: جولة ليلية مع مرشد مختص للتعرف على الكائنات الليلية.",
+        "اليوم 3: نشاط صباحي خفيف ثم مغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t23",
+      "categories": ["c5"],
+      "title": "رحلة الينابيع المخفية",
+      "tripType": "relaxation",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t23-forest/800/600",
+      "duration": 4,
+      "activities": [
+        "الاسترخاء بجانب الينابيع",
+        "علاجات طبيعية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وجولة تعريفية بالينابيع.",
+        "اليوم 2: صباح للاسترخاء وعلاج طبيعي بسيط.",
+        "اليوم 3: جولة قصيرة واستكشاف نباتي.",
+        "اليوم 4: وداع والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t24",
+      "categories": ["c5"],
+      "title": "مسار الأشجار العتيقة",
+      "tripType": "education",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t24-forest/800/600",
+      "duration": 2,
+      "activities": [
+        "جولة تعليمية",
+        "ورشة عمل نباتية"
+      ],
+      "program": [
+        "اليوم 1: جولة تعليمية حول أنواع الأشجار المحلية.",
+        "اليوم 2: ورشة عمل لصنع منتجات طبيعية بسيطة وعودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t25",
+      "categories": ["c5"],
+      "title": "مغامرة القمم الخضراء",
+      "tripType": "hiking",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t25-forest/800/600",
+      "duration": 6,
+      "activities": [
+        "تمشية يومية",
+        "تخييم بسيط",
+        "طقوس غروب"
+      ],
+      "program": [
+        "اليوم 1: استقبال والتعرف على الممرات.",
+        "اليوم 2: مشي صباحي والانعزال لمراقبة الطيور.",
+        "اليوم 3: الوصول إلى مخيم وإعداد عشاء مشترك.",
+        "اليوم 4: نشاط تصوير نباتي.",
+        "اليوم 5: نزول تدريجي من الجبل.",
+        "اليوم 6: وداع."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t26",
+      "categories": ["c6"],
+      "title": "جزر المرجان — استكشاف الجزيرة",
+      "tripType": "exploration",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t26-island/800/600",
+      "duration": 7,
+      "activities": [
+        "استكشاف الجزيرة",
+        "سباحة مع السلاحف",
+        "عشاء شواء على الشاطئ"
+      ],
+      "program": [
+        "اليوم 1: وصول إلى الجزيرة واستلام الكوخ البحري.",
+        "اليوم 2: قوارب صغيرة ورؤية السلاحف البحرية.",
+        "اليوم 3: رحلة غوص سطحي وتجربة طعام محلي.",
+        "اليوم 4: يوم حر واختيار نشاطات اختيارية.",
+        "اليوم 5: جولة جزيرة بالطائرة الشراعية البسيطة.",
+        "اليوم 6: فعالية بيئية لتنظيف الشاطئ.",
+        "اليوم 7: وداع ومغادرة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t27",
+      "categories": ["c6"],
+      "title": "الشاطىء الاستوائي الخاص",
+      "tripType": "luxury",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t27-island/800/600",
+      "duration": 5,
+      "activities": [
+        "إقامة فندقية فاخرة",
+        "عشاء روماني على الشاطئ",
+        "جلسات سبا"
+      ],
+      "program": [
+        "اليوم 1: استقبال فخم وخدمة خاصة على الشاطئ.",
+        "اليوم 2: جلسة سبا صباحية وتصفح الجزيرة بالقارب.",
+        "اليوم 3: نشاطات مائية يومية واسترخاء.",
+        "اليوم 4: تجربة طبخ محلية مع الشيف.",
+        "اليوم 5: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t28",
+      "categories": ["c6"],
+      "title": "رحلة الصيادين القديمة",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t28-island/800/600",
+      "duration": 3,
+      "activities": [
+        "مرافقة صيادين محليين",
+        "تعلم طرق شبكة الصيد",
+        "طهي السمك التقليدي"
+      ],
+      "program": [
+        "اليوم 1: انطلاق مع القوارب المحلية صباحاً.",
+        "اليوم 2: تعلم طرق الصيد التقليدية وتنظيف السمك.",
+        "اليوم 3: طبخ جماعي على الشاطئ ووداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t29",
+      "categories": ["c6"],
+      "title": "رحلة الغوص الليلي",
+      "tripType": "adventure",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t29-island/800/600",
+      "duration": 2,
+      "activities": [
+        "غوص ليلي",
+        "مراقبة الأحياء البحرية الليلية"
+      ],
+      "program": [
+        "اليوم 1: تدريب وتحضير معدات الغوص الليلي.",
+        "اليوم 2: غوص ليلي مع مشاهد ليلية وشعاب مضيئة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t30",
+      "categories": ["c6"],
+      "title": "استجمام الجزيرة الصغيرة",
+      "tripType": "relaxation",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t30-island/800/600",
+      "duration": 4,
+      "activities": [
+        "قراءة واستجمام",
+        "مشي شاطئي",
+        "جلسات طهي محلية"
+      ],
+      "program": [
+        "اليوم 1: استقبال ووضع حقائبك في كوخ مبني على الشاطئ.",
+        "اليوم 2: صباح هادئ ومساج بعد الظهر.",
+        "اليوم 3: ورشة طهي محلية وتجربة مأكولات الجزيرة.",
+        "اليوم 4: وداع والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t31",
+      "categories": ["c7"],
+      "title": "تزلج القمم البيضاء",
+      "tripType": "adventure",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t31-snow/800/600",
+      "duration": 6,
+      "activities": [
+        "تزلج على منحدرات متوسطة",
+        "دروس تزلج",
+        "حفلات ليلية في المنتجع"
+      ],
+      "program": [
+        "اليوم 1: وصول وتجهيز تذاكر المصاعد ودروس تمهيدية.",
+        "اليوم 2: درس تزلج صباحي ومسار تدريبي.",
+        "اليوم 3: رحلة تزلج كاملة مع مرشد.",
+        "اليوم 4: يوم حر وتجربة مطعم جبلي.",
+        "اليوم 5: تزلج صباحي ومشاهد غروب.",
+        "اليوم 6: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t32",
+      "categories": ["c7"],
+      "title": "مغامرة الزلاجات العائلية",
+      "tripType": "family",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t32-snow/800/600",
+      "duration": 4,
+      "activities": [
+        "زلاجات للأطفال",
+        "تزلج عائلي",
+        "قهوة وحلوى بعد التزلج"
+      ],
+      "program": [
+        "اليوم 1: استقبال عائلي وتعريف بالأمان.",
+        "اليوم 2: دروس للأطفال وتجربة تزلج عائلية.",
+        "اليوم 3: أنشطة ثلجية ومسابقات بسيطة.",
+        "اليوم 4: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": true
+    },
+    {
+      "id": "t33",
+      "categories": ["c7"],
+      "title": "ليلة على حافة الجليد",
+      "tripType": "expedition",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t33-snow/800/600",
+      "duration": 3,
+      "activities": [
+        "مخيم جليدي",
+        "رحلات قصيرة على الثلج"
+      ],
+      "program": [
+        "اليوم 1: انتقال إلى موقع المخيم وتجهيز الدفايات.",
+        "اليوم 2: جولة على الجليد مع دليل ومحاضرة عن البيئة الباردة.",
+        "اليوم 3: تفكيك ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t34",
+      "categories": ["c7"],
+      "title": "تعلم تزلج الجبال",
+      "tripType": "training",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t34-snow/800/600",
+      "duration": 7,
+      "activities": [
+        "دروس مكثفة للتزلج",
+        "تقييم شامل"
+      ],
+      "program": [
+        "اليوم 1: فحوصات معدات ودروس أساسية.",
+        "اليوم 2-5: تدريب يومي متدرج مع تمارين لياقة.",
+        "اليوم 6: يوم تطبيق عملي في منحدر متوسط.",
+        "اليوم 7: تقييم وشهادة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t35",
+      "categories": ["c7"],
+      "title": "رحلة ثلج وسبا",
+      "tripType": "relaxation",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t35-snow/800/600",
+      "duration": 4,
+      "activities": [
+        "سبا جبلي",
+        "حمامات ساخنة",
+        "جولات ثلجية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وخدمة سبا مسائية.",
+        "اليوم 2: نشاطات خفيفة في الثلج ثم سبا.",
+        "اليوم 3: رحلة مشي في روعة الثلج والمساج المسائي.",
+        "اليوم 4: فطور وداعي."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t36",
+      "categories": ["c8"],
+      "title": "قوارب الندى — بحيرة الزمرد",
+      "tripType": "exploration",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t36-lake/800/600",
+      "duration": 3,
+      "activities": [
+        "ركوب قارب",
+        "تجديف",
+        "صيد بسيط"
+      ],
+      "program": [
+        "اليوم 1: وصول وترتيب القوارب والدورات التعليمية.",
+        "اليوم 2: رحلة بالقارب عبر البحيرة وتوقف للسباحة.",
+        "اليوم 3: صباح للتجديف ثم عودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t37",
+      "categories": ["c8"],
+      "title": "نزهة نهرية وقرى ضفاف",
+      "tripType": "cultural",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t37-lake/800/600",
+      "duration": 4,
+      "activities": [
+        "زيارة قرى الضفاف",
+        "تذوق مأكولات محلية",
+        "جولة بالقارب"
+      ],
+      "program": [
+        "اليوم 1: لقاء بالميناء والانتقال إلى القرى المجاورة.",
+        "اليوم 2: استكشاف الأسواق وتجربة أكلات محلية.",
+        "اليوم 3: رحلة بالقارب ونزهة غداء.",
+        "اليوم 4: عودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t38",
+      "categories": ["c8"],
+      "title": "مغامرة التجديف الطويلة",
+      "tripType": "adventure",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t38-lake/800/600",
+      "duration": 5,
+      "activities": [
+        "تجديف متواصل",
+        "معسكرات ليلية",
+        "استكشاف خليج صغير"
+      ],
+      "program": [
+        "اليوم 1: تدريب وتجهيز قوارب الكаяك.",
+        "اليوم 2: تجديف 12 كم والتخييم على الضفة.",
+        "اليوم 3: استكمال المسار وزيارات طبيعية.",
+        "اليوم 4: استراحة وأنشطة صيد بسيطة.",
+        "اليوم 5: الانتهاء والعودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t39",
+      "categories": ["c8"],
+      "title": "بحيرة الربيع الهادئة",
+      "tripType": "relaxation",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t39-lake/800/600",
+      "duration": 2,
+      "activities": [
+        "استجمام",
+        "قراءة على الضفة"
+      ],
+      "program": [
+        "اليوم 1: وصول واسترخاء على الضفة.",
+        "اليوم 2: صباح هادئ ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t40",
+      "categories": ["c8"],
+      "title": "صيد الفجر والنسمات",
+      "tripType": "activities",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t40-lake/800/600",
+      "duration": 3,
+      "activities": [
+        "صيد فجر",
+        "تحضير الوجبة بالصيد"
+      ],
+      "program": [
+        "اليوم 1: استعداد مبكر للتحرك مع قارب الصيد.",
+        "اليوم 2: تجربة الصيد وتحضير وجبة من الصيد.",
+        "اليوم 3: وداع."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t41",
+      "categories": ["c9"],
+      "title": "مهرجان التوابل والفنون",
+      "tripType": "cultural",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t41-culture/800/600",
+      "duration": 3,
+      "activities": [
+        "أسواق توابل",
+        "ورش حرفية",
+        "عروض فلكلورية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وزيارة سوق التوابل المحلي.",
+        "اليوم 2: حضور ورش صناعة الحرف ومشاهدة عروض موسيقية.",
+        "اليوم 3: نشاطات ختامية ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t42",
+      "categories": ["c9"],
+      "title": "ورشة طهي ومأكولات الشارع",
+      "tripType": "workshop",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t42-culture/800/600",
+      "duration": 2,
+      "activities": [
+        "ورشة طهي",
+        "تذوق مأكولات الشارع"
+      ],
+      "program": [
+        "اليوم 1: تعلم وصفة محلية مشهورة مع طاهي محلي.",
+        "اليوم 2: زيارة أماكن بيع الشوارع وتجربة أطباق مصغرة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t43",
+      "categories": ["c9"],
+      "title": "رحلة مسار الفن الشعبي",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t43-culture/800/600",
+      "duration": 4,
+      "activities": [
+        "معارض فنية",
+        "لقاءات مع فنانين"
+      ],
+      "program": [
+        "اليوم 1: استقبال وزيارة معرض محلي.",
+        "اليوم 2: لقاء مع فنان محلي وورشة صغيرة.",
+        "اليوم 3: جولة في أحياء فنية.",
+        "اليوم 4: نشاط ختامي ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t44",
+      "categories": ["c9"],
+      "title": "أيام التراث — قصص وأغنيات",
+      "tripType": "cultural",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t44-culture/800/600",
+      "duration": 3,
+      "activities": [
+        "حكايات قبل النوم",
+        "سهرة موسيقية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وحكايات من كبار السن عن تاريخ المنطقة.",
+        "اليوم 2: ورشة موسيقية شعبية ومساء احتفالي.",
+        "اليوم 3: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": true
+    },
+    {
+      "id": "t45",
+      "categories": ["c9"],
+      "title": "سوق الأحد — تجربة محلية",
+      "tripType": "market",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t45-culture/800/600",
+      "duration": 1,
+      "activities": [
+        "تسوق محلي",
+        "تذوق مأكولات سريعة"
+      ],
+      "program": [
+        "اليوم 1: جولة سوق صباحية ولقاءات مع البائعين وتذوق لذيذ."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t46",
+      "categories": ["c10"],
+      "title": "سفاري الأسرة — يوم كامل",
+      "tripType": "safari",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t46-safari/800/600",
+      "duration": 1,
+      "activities": [
+        "مراقبة الحيوانات",
+        "مشروب غداء في المخيم"
+      ],
+      "program": [
+        "اليوم 1: انطلاق صباحي بسيارة سفاري لاصطياد اللحظات الطبيعية ثم عودة بعد الغداء."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t47",
+      "categories": ["c10"],
+      "title": "مغامرة السافانا لثلاثة أيام",
+      "tripType": "expedition",
+      "season": "summer",
+      "imageUrl": "https://picsum.photos/seed/t47-safari/800/600",
+      "duration": 3,
+      "activities": [
+        "رحلات صباحية لمشاهدة الحيوانات",
+        "معسكر ليلي"
+      ],
+      "program": [
+        "اليوم 1: انتقال لمخيم السافانا وإعداد المكان.",
+        "اليوم 2: رحلات صباحية ومسائية لمراقبة الحيوانات.",
+        "اليوم 3: صباح حر وانتهاء."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t48",
+      "categories": ["c10"],
+      "title": "طريق الطيور — سفاري الطيور النادرة",
+      "tripType": "wildlife",
+      "season": "spring",
+      "imageUrl": "https://picsum.photos/seed/t48-safari/800/600",
+      "duration": 4,
+      "activities": [
+        "مراقبة طيور",
+        "جلسات تصوير"
+      ],
+      "program": [
+        "اليوم 1: استقبال وتعريف بخريطة الطيور المحلية.",
+        "اليوم 2: رحلات صباحية لمواقع الطيور النادرة.",
+        "اليوم 3: ورشة تصوير طيور ومتابعة لهوايات المشاركين.",
+        "اليوم 4: ملخص ونهاية."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t49",
+      "categories": ["c10"],
+      "title": "سفاري الصور — ملتقى المصورين",
+      "tripType": "photography",
+      "season": "autumn",
+      "imageUrl": "https://picsum.photos/seed/t49-safari/800/600",
+      "duration": 5,
+      "activities": [
+        "جلسات تصوير",
+        "تبادل خبرات"
+      ],
+      "program": [
+        "اليوم 1: تعرف ومشاركة المعدات.",
+        "اليوم 2-4: رحلات تصوير صباحية ومسائية مع تقيّيم.",
+        "اليوم 5: معرض مصغر لأفضل اللقطات."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t50",
+      "categories": ["c10"],
+      "title": "رحلة السافانا الهادئة",
+      "tripType": "relaxation",
+      "season": "winter",
+      "imageUrl": "https://picsum.photos/seed/t50-safari/800/600",
+      "duration": 2,
+      "activities": [
+        "استرخاء في المخيم",
+        "جولات قصيرة"
+      ],
+      "program": [
+        "اليوم 1: وصول لمخيم هادئ وجولة مسائية قصيرة.",
+        "اليوم 2: صباح هادئ ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": true
     }
   ]
 }
