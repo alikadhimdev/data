@@ -3,52 +3,52 @@
     {
       "id": "c1",
       "title": "جبال",
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      "imageUrl": "https://source.unsplash.com/800x600/?mountain"
     },
     {
       "id": "c2",
       "title": "شواطئ",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+      "imageUrl": "https://source.unsplash.com/800x600/?beach"
     },
     {
       "id": "c3",
       "title": "مدن تاريخية",
-      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b"
+      "imageUrl": "https://source.unsplash.com/800x600/?historic-city"
     },
     {
       "id": "c4",
       "title": "صحاري",
-      "imageUrl": "https://images.unsplash.com/photo-1470240721273-7821a6eeb6bd"
+      "imageUrl": "https://source.unsplash.com/800x600/?desert"
     },
     {
       "id": "c5",
       "title": "غابات",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+      "imageUrl": "https://source.unsplash.com/800x600/?forest"
     },
     {
       "id": "c6",
       "title": "جزر",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+      "imageUrl": "https://source.unsplash.com/800x600/?island,tropical"
     },
     {
       "id": "c7",
       "title": "مغامرات ثلجية",
-      "imageUrl": "https://images.unsplash.com/photo-1516569422535-d6f6309f3bde"
+      "imageUrl": "https://source.unsplash.com/800x600/?snow,skis"
     },
     {
       "id": "c8",
       "title": "أنهار وبحيرات",
-      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+      "imageUrl": "https://source.unsplash.com/800x600/?lake"
     },
     {
       "id": "c9",
       "title": "رحلات ثقافية",
-      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3"
+      "imageUrl": "https://source.unsplash.com/800x600/?culture,festival"
     },
     {
       "id": "c10",
       "title": "رحلات سفاري",
-      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2"
+      "imageUrl": "https://source.unsplash.com/800x600/?safari,wildlife"
     }
   ],
   "trips": [
@@ -58,7 +58,7 @@
       "title": "قمة الهدوء — وادي وصخور",
       "tripType": "exploration",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "imageUrl": "https://source.unsplash.com/800x600/?mountain,alps",
       "duration": 5,
       "activities": [
         "مشي صباحي",
@@ -82,7 +82,7 @@
       "title": "ممرات السهول الجبلية",
       "tripType": "hiking",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+      "imageUrl": "https://source.unsplash.com/800x600/?mountain,trail",
       "duration": 7,
       "activities": [
         "مشي طويل",
@@ -108,7 +108,7 @@
       "title": "عطلة القمم الهادئة",
       "tripType": "retreat",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+      "imageUrl": "https://source.unsplash.com/800x600/?mountain,retreat",
       "duration": 4,
       "activities": [
         "جلسات يوغا",
@@ -131,7 +131,7 @@
       "title": "تسلق القمم الصخرية",
       "tripType": "adventure",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1508264165352-258a6a3f1f3a",
+      "imageUrl": "https://source.unsplash.com/800x600/?mountain,climbing",
       "duration": 6,
       "activities": [
         "تسلق جبلي",
@@ -156,7 +156,7 @@
       "title": "مغامرة البانوراما الشتوية",
       "tripType": "exploration",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+      "imageUrl": "https://source.unsplash.com/800x600/?mountain,snow",
       "duration": 5,
       "activities": [
         "مشي على الثلج",
@@ -180,7 +180,7 @@
       "title": "شاطئ المرجان — استجمام وغوص",
       "tripType": "activities",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "imageUrl": "https://source.unsplash.com/800x600/?beach,coral",
       "duration": 5,
       "activities": [
         "غوص موجه",
@@ -204,7 +204,7 @@
       "title": "عطلة الرمال الذهبية",
       "tripType": "relaxation",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "imageUrl": "https://source.unsplash.com/800x600/?beach,relax",
       "duration": 6,
       "activities": [
         "سباحة",
@@ -229,7 +229,7 @@
       "title": "رحلة الكاياك إلى الكهوف البحرية",
       "tripType": "adventure",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
+      "imageUrl": "https://source.unsplash.com/800x600/?beach,cave,kayak",
       "duration": 3,
       "activities": [
         "كاياك في الكهوف",
@@ -251,7 +251,7 @@
       "title": "مهرجان الشاطئ الصيفي",
       "tripType": "cultural",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?beach,festival",
       "duration": 4,
       "activities": [
         "عروض موسيقية",
@@ -274,7 +274,7 @@
       "title": "رحلة صيد وحياة بحرية",
       "tripType": "activities",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+      "imageUrl": "https://source.unsplash.com/800x600/?fishing,boat",
       "duration": 2,
       "activities": [
         "رحلة صيد قصيرة",
@@ -295,7 +295,7 @@
       "title": "شارع الزمن — جولة في المدينة القديمة",
       "tripType": "cultural",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b",
+      "imageUrl": "https://source.unsplash.com/800x600/?historic,street,city",
       "duration": 3,
       "activities": [
         "جولة تاريخية",
@@ -317,7 +317,7 @@
       "title": "ممرات الأبراج والقصور",
       "tripType": "exploration",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1505765055123-3d3f3f9d1f6a",
+      "imageUrl": "https://source.unsplash.com/800x600/?castle,historic",
       "duration": 4,
       "activities": [
         "جولة أثرية",
@@ -340,7 +340,7 @@
       "title": "ليالي المدينة التاريخية",
       "tripType": "retreat",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1505765055123-3d3f3f9d1f6a?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?old-city,night",
       "duration": 5,
       "activities": [
         "جولات ليلية",
@@ -364,7 +364,7 @@
       "title": "أسواق وحكايا",
       "tripType": "cultural",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+      "imageUrl": "https://source.unsplash.com/800x600/?market,traditional",
       "duration": 2,
       "activities": [
         "تسوق في الأسواق التقليدية",
@@ -384,7 +384,7 @@
       "title": "تاريخ على الأقدام",
       "tripType": "walking",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1505765055123-3d3f3f9d1f6a?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?walking-tour,historic",
       "duration": 3,
       "activities": [
         "جولة مشي تاريخية",
@@ -405,7 +405,7 @@
       "title": "ليالي الصحراء العربية",
       "tripType": "camping",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1470240721273-7821a6eeb6bd",
+      "imageUrl": "https://source.unsplash.com/800x600/?desert,night",
       "duration": 4,
       "activities": [
         "تخييم في الكثبان",
@@ -428,7 +428,7 @@
       "title": "صحراء النجوم",
       "tripType": "stargazing",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?desert,stars",
       "duration": 3,
       "activities": [
         "مراقبة النجوم",
@@ -450,7 +450,7 @@
       "title": "سفاري الكثبان بالدراجات",
       "tripType": "adventure",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?desert,quadbike",
       "duration": 2,
       "activities": [
         "دراجات صحراوية",
@@ -470,7 +470,7 @@
       "title": "رحلة القوافل التاريخية",
       "tripType": "cultural",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+      "imageUrl": "https://source.unsplash.com/800x600/?caravan,desert",
       "duration": 5,
       "activities": [
         "زيارة مواقع أثرية",
@@ -494,7 +494,7 @@
       "title": "التخييم الفاخر في الواحة",
       "tripType": "luxury",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+      "imageUrl": "https://source.unsplash.com/800x600/?oasis,desert,luxury",
       "duration": 3,
       "activities": [
         "تخييم فاخر",
@@ -516,7 +516,7 @@
       "title": "ممرات الغابة المطيرة",
       "tripType": "exploration",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1000&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?rainforest,trail",
       "duration": 5,
       "activities": [
         "مشي في الغابة",
@@ -540,7 +540,7 @@
       "title": "مغامرة الأدغال الليلية",
       "tripType": "adventure",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?jungle,night",
       "duration": 3,
       "activities": [
         "جولة ليلية",
@@ -561,7 +561,7 @@
       "title": "رحلة الينابيع المخفية",
       "tripType": "relaxation",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+      "imageUrl": "https://source.unsplash.com/800x600/?forest,spring",
       "duration": 4,
       "activities": [
         "الاسترخاء بجانب الينابيع",
@@ -583,7 +583,7 @@
       "title": "مسار الأشجار العتيقة",
       "tripType": "education",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?ancient,trees,forest",
       "duration": 2,
       "activities": [
         "جولة تعليمية",
@@ -603,7 +603,7 @@
       "title": "مغامرة القمم الخضراء",
       "tripType": "hiking",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+      "imageUrl": "https://source.unsplash.com/800x600/?green,hills,forest",
       "duration": 6,
       "activities": [
         "تمشية يومية",
@@ -628,7 +628,7 @@
       "title": "جزر المرجان — استكشاف الجزيرة",
       "tripType": "exploration",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "imageUrl": "https://source.unsplash.com/800x600/?island,coral",
       "duration": 7,
       "activities": [
         "استكشاف الجزيرة",
@@ -654,7 +654,7 @@
       "title": "الشاطىء الاستوائي الخاص",
       "tripType": "luxury",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?private,island,luxury",
       "duration": 5,
       "activities": [
         "إقامة فندقية فاخرة",
@@ -678,7 +678,7 @@
       "title": "رحلة الصيادين القديمة",
       "tripType": "cultural",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?fishermen,boats",
       "duration": 3,
       "activities": [
         "مرافقة صيادين محليين",
@@ -700,7 +700,7 @@
       "title": "رحلة الغوص الليلي",
       "tripType": "adventure",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?night,dive,ocean",
       "duration": 2,
       "activities": [
         "غوص ليلي",
@@ -720,7 +720,7 @@
       "title": "استجمام الجزيرة الصغيرة",
       "tripType": "relaxation",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c",
+      "imageUrl": "https://source.unsplash.com/800x600/?island,relax",
       "duration": 4,
       "activities": [
         "قراءة واستجمام",
@@ -743,7 +743,7 @@
       "title": "تزلج القمم البيضاء",
       "tripType": "adventure",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1516569422535-d6f6309f3bde",
+      "imageUrl": "https://source.unsplash.com/800x600/?ski,resort,snow",
       "duration": 6,
       "activities": [
         "تزلج على منحدرات متوسطة",
@@ -768,7 +768,7 @@
       "title": "مغامرة الزلاجات العائلية",
       "tripType": "family",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6",
+      "imageUrl": "https://source.unsplash.com/800x600/?family,snow,sled",
       "duration": 4,
       "activities": [
         "زلاجات للأطفال",
@@ -791,7 +791,7 @@
       "title": "ليلة على حافة الجليد",
       "tripType": "expedition",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1000&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?glacier,camp",
       "duration": 3,
       "activities": [
         "مخيم جليدي",
@@ -812,7 +812,7 @@
       "title": "تعلم تزلج الجبال",
       "tripType": "training",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?ski,training",
       "duration": 7,
       "activities": [
         "دروس مكثفة للتزلج",
@@ -834,7 +834,7 @@
       "title": "رحلة ثلج وسبا",
       "tripType": "relaxation",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1516569422535-d6f6309f3bde?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?snow,spa",
       "duration": 4,
       "activities": [
         "سبا جبلي",
@@ -857,7 +857,7 @@
       "title": "قوارب الندى — بحيرة الزمرد",
       "tripType": "exploration",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "imageUrl": "https://source.unsplash.com/800x600/?lake,boat",
       "duration": 3,
       "activities": [
         "ركوب قارب",
@@ -879,7 +879,7 @@
       "title": "نزهة نهرية وقرى ضفاف",
       "tripType": "cultural",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+      "imageUrl": "https://source.unsplash.com/800x600/?river,village",
       "duration": 4,
       "activities": [
         "زيارة قرى الضفاف",
@@ -902,7 +902,7 @@
       "title": "مغامرة التجديف الطويلة",
       "tripType": "adventure",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?kayak,expedition",
       "duration": 5,
       "activities": [
         "تجديف متواصل",
@@ -926,7 +926,7 @@
       "title": "بحيرة الربيع الهادئة",
       "tripType": "relaxation",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?calm,lake",
       "duration": 2,
       "activities": [
         "استجمام",
@@ -946,7 +946,7 @@
       "title": "صيد الفجر والنسمات",
       "tripType": "activities",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?fishing,lake,early",
       "duration": 3,
       "activities": [
         "صيد فجر",
@@ -967,7 +967,7 @@
       "title": "مهرجان التوابل والفنون",
       "tripType": "cultural",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?spices,festival,market",
       "duration": 3,
       "activities": [
         "أسواق توابل",
@@ -989,7 +989,7 @@
       "title": "ورشة طهي ومأكولات الشارع",
       "tripType": "workshop",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
+      "imageUrl": "https://source.unsplash.com/800x600/?cooking,streetfood,chef",
       "duration": 2,
       "activities": [
         "ورشة طهي",
@@ -1009,7 +1009,7 @@
       "title": "رحلة مسار الفن الشعبي",
       "tripType": "cultural",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?art,folk,workshop",
       "duration": 4,
       "activities": [
         "معارض فنية",
@@ -1031,7 +1031,7 @@
       "title": "أيام التراث — قصص وأغنيات",
       "tripType": "cultural",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?heritage,tradition,music",
       "duration": 3,
       "activities": [
         "حكايات قبل النوم",
@@ -1052,7 +1052,7 @@
       "title": "سوق الأحد — تجربة محلية",
       "tripType": "market",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&w=1000&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?local,market,street",
       "duration": 1,
       "activities": [
         "تسوق محلي",
@@ -1071,7 +1071,7 @@
       "title": "سفاري الأسرة — يوم كامل",
       "tripType": "safari",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?safari,family,jeep",
       "duration": 1,
       "activities": [
         "مراقبة الحيوانات",
@@ -1090,7 +1090,7 @@
       "title": "مغامرة السافانا لثلاثة أيام",
       "tripType": "expedition",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=1000&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?savanna,expedition,wildlife",
       "duration": 3,
       "activities": [
         "رحلات صباحية لمشاهدة الحيوانات",
@@ -1111,7 +1111,7 @@
       "title": "طريق الطيور — سفاري الطيور النادرة",
       "tripType": "wildlife",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?birds,birdwatching",
       "duration": 4,
       "activities": [
         "مراقبة طيور",
@@ -1133,7 +1133,7 @@
       "title": "سفاري الصور — ملتقى المصورين",
       "tripType": "photography",
       "season": "autumn",
-      "imageUrl": "https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=900&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?wildlife,photography",
       "duration": 5,
       "activities": [
         "جلسات تصوير",
@@ -1154,7 +1154,7 @@
       "title": "رحلة السافانا الهادئة",
       "tripType": "relaxation",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=800&q=60",
+      "imageUrl": "https://source.unsplash.com/800x600/?savanna,calm",
       "duration": 2,
       "activities": [
         "استرخاء في المخيم",
