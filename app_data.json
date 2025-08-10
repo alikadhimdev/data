@@ -2,460 +2,1169 @@
   "categories": [
     {
       "id": "c1",
-      "title": "تزحلف",
-      "imageUrl": "https://images.unsplash.com/photo-1575728252059-db43d03fc2de?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTh8fG1vdW5hdGluc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q="
+      "title": "جبال",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
     },
     {
       "id": "c2",
-      "title": "بحيرات",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bGFrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+      "title": "شواطئ",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
     },
     {
       "id": "c3",
-      "title": "شواطىء",
-      "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAxfHxiZWFjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+      "title": "مدن تاريخية",
+      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b"
     },
     {
       "id": "c4",
-      "title": "صحارى",
-      "imageUrl": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzZXJ0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+      "title": "صحاري",
+      "imageUrl": "https://images.unsplash.com/photo-1470240721273-7821a6eeb6bd"
     },
     {
       "id": "c5",
-      "title": "مدن تاريخية",
-      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjR8fHRyYXZlbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+      "title": "غابات",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
     },
     {
       "id": "c6",
-      "title": "أخرى",
-      "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2tpaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+      "title": "جزر",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+      "id": "c7",
+      "title": "مغامرات ثلجية",
+      "imageUrl": "https://images.unsplash.com/photo-1516569422535-d6f6309f3bde"
+    },
+    {
+      "id": "c8",
+      "title": "أنهار وبحيرات",
+      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    },
+    {
+      "id": "c9",
+      "title": "رحلات ثقافية",
+      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3"
+    },
+    {
+      "id": "c10",
+      "title": "رحلات سفاري",
+      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2"
     }
   ],
   "trips": [
     {
-      "id": "m1",
+      "id": "t1",
       "categories": ["c1"],
-      "title": "جبال الألب",
+      "title": "قمة الهدوء — وادي وصخور",
       "tripType": "exploration",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1611523658822-385aa008324c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8bW91bmF0aW5zfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "duration": 20,
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "duration": 5,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "مشي صباحي",
+        "جلسة تصوير بانورامية",
+        "عشاء شعبي محلي"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار سيت أميت ,تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: الوصول واستلام الكوخ الخشبي، جولة استكشافية قصيرة حول المخيم.",
+        "اليوم 2: مشي صباحي إلى نقطة مشاهدة مع فطور في الهواء الطلق.",
+        "اليوم 3: زيارة قرية جبلية قريبة والتعرف على الحرف المحلية.",
+        "اليوم 4: تسلق خفيف إلى تلة لمشاهدة غروب الشمس.",
+        "اليوم 5: إفطار وداعي والعودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t2",
+      "categories": ["c1"],
+      "title": "ممرات السهول الجبلية",
+      "tripType": "hiking",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+      "duration": 7,
+      "activities": [
+        "مشي طويل",
+        "مخيم ليلي",
+        "مراقبة الطيور"
+      ],
+      "program": [
+        "اليوم 1: تجمّع وتعريف بالمجموعات وخريطة الطريق.",
+        "اليوم 2: مسار مشي 12 كم مع توقف للغداء في الطبيعة.",
+        "اليوم 3: عبور ممر جبلي والوصول إلى مخيم جبلي.",
+        "اليوم 4: تدريب على السلامة ومعرفة النباتات المحلية.",
+        "اليوم 5: يوم حر استكشافي واختيارات أنشطة إضافية.",
+        "اليوم 6: نزهة قصيرة وزيارة شلال جبلي.",
+        "اليوم 7: العودة إلى نقطة الانطلاق."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t3",
+      "categories": ["c1"],
+      "title": "عطلة القمم الهادئة",
+      "tripType": "retreat",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+      "duration": 4,
+      "activities": [
+        "جلسات يوغا",
+        "مشي بسيط",
+        "تذوق مأكولات محلية"
+      ],
+      "program": [
+        "اليوم 1: وصول، تعارف، وجلسة استرخاء مسائية.",
+        "اليوم 2: يوغا صباحية ومشي ترفيهي في الغابة المجاورة.",
+        "اليوم 3: ورشة طهي محلية ووقت حر.",
+        "اليوم 4: إفطار ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t4",
+      "categories": ["c1"],
+      "title": "تسلق القمم الصخرية",
+      "tripType": "adventure",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1508264165352-258a6a3f1f3a",
+      "duration": 6,
+      "activities": [
+        "تسلق جبلي",
+        "تدريب تقنيات الطلوع",
+        "معسكر قمة"
+      ],
+      "program": [
+        "اليوم 1: وصول وتجهيز معدات التسلق.",
+        "اليوم 2: تدريب عملي على تقنيات الحبال والتأمين.",
+        "اليوم 3: مسار تسلق متوسط إلى معسكر منتصف الطريق.",
+        "اليوم 4: صعود القمة الرئيسية في الصباح الباكر.",
+        "اليوم 5: نزول والاسترخاء.",
+        "اليوم 6: مراجعة تجربة ومغادرة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t5",
+      "categories": ["c1"],
+      "title": "مغامرة البانوراما الشتوية",
+      "tripType": "exploration",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+      "duration": 5,
+      "activities": [
+        "مشي على الثلج",
+        "تدفئة بجوار النار",
+        "مشاهدة المناظر الثلجية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وترحيب مع مشروب ساخن.",
+        "اليوم 2: جولة مع مرشد في المناظر الثلجية القريبة.",
+        "اليوم 3: نشاط بناء أكواخ ثلجية وخبز خبر الطين التقليدي.",
+        "اليوم 4: رحلة قصيرة بزلاجات تسوقو وربما تجربة تزلج بسيطة.",
+        "اليوم 5: وداع والعودة."
       ],
       "isInSummer": false,
       "isForFamilies": true,
       "isInWinter": true
     },
     {
-      "id": "m2",
-      "categories": ["c1"],
-      "title": "جبال الجنوب",
-      "tripType": "exploration",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1612456225451-bb8d10d0131d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fG1vdW5hdGluc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "duration": 10,
-      "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
-      ],
-      "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
-      ],
-      "isInSummer": false,
-      "isForFamilies": false,
-      "isInWinter": false
-    },
-    {
-      "id": "m3",
-      "categories": ["c1"],
-      "title": "جبال مرتفعة",
-      "tripType": "recovery",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1592221912790-2b4df8882ea9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzd8fG1vdW5hdGluc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "duration": 45,
-      "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
-      ],
-      "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
-      ],
-      "isInSummer": false,
-      "isForFamilies": false,
-      "isInWinter": true
-    },
-    {
-      "id": "m4",
-      "categories": ["c2", "c1"],
-      "title": "البحيرة الكبرى",
-      "tripType": "activities",
-      "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8bGFrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "duration": 60,
-      "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
-      ],
-      "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
-      ],
-      "isInSummer": false,
-      "isForFamilies": false,
-      "isInWinter": false
-    },
-    {
-      "id": "m5",
-      "categories": ["c2", "c1"],
-      "title": "البحيرات الصغرى",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1580100586938-02822d99c4a8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjF8fGxha2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 15,
-      "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
-      ],
-      "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
-      ],
-      "isInSummer": true,
-      "isForFamilies": false,
-      "isInWinter": true
-    },
-    {
-      "id": "m6",
+      "id": "t6",
       "categories": ["c2"],
-      "title": "بحيرة الزمرد",
-      "tripType": "exploration",
+      "title": "شاطئ المرجان — استجمام وغوص",
+      "tripType": "activities",
       "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bGFrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 240,
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "duration": 5,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "غوص موجه",
+        "تجديف",
+        "استرخاء على الشاطئ"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: وصول وترتيب المعدات، جولة تعريفية على الشاطئ.",
+        "اليوم 2: غوص صباحي برفقة مرشد لرؤية الشعب المرجانية.",
+        "اليوم 3: رحلة قارب إلى جزيرة قريبة ونزهة على الشاطئ.",
+        "اليوم 4: صباح للتجديف ومساء للاسترخاء.",
+        "اليوم 5: وقت حر ومغادرة."
       ],
       "isInSummer": true,
       "isForFamilies": false,
       "isInWinter": false
     },
     {
-      "id": "m7",
-      "categories": ["c3"],
-      "title": "شاطئ الأول",
-      "tripType": "exploration",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAxfHxiZWFjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 20,
+      "id": "t7",
+      "categories": ["c2"],
+      "title": "عطلة الرمال الذهبية",
+      "tripType": "relaxation",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "duration": 6,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "سباحة",
+        "جلسات تدليك شاطئية",
+        "عشاء غروب"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: استقبال على الشاطئ وإفطار ترحيبي.",
+        "اليوم 2: صباح سباحة وورشة صنع كوكتيلات صحية.",
+        "اليوم 3: رحلة صيد تقليدية مع طهي السمك الطازج على الشاطئ.",
+        "اليوم 4: يوم حر مع اقتراحات لرحلات اختيارية.",
+        "اليوم 5: جلسة تدليك ومساج ومساء للاحتفال.",
+        "اليوم 6: إفطار ومغادرة."
       ],
       "isInSummer": true,
-      "isForFamilies": false,
+      "isForFamilies": true,
       "isInWinter": false
     },
     {
-      "id": "m8",
-      "categories": ["c3"],
-      "title": "الشاطىء الكبير",
-      "tripType": "recovery",
+      "id": "t8",
+      "categories": ["c2"],
+      "title": "رحلة الكاياك إلى الكهوف البحرية",
+      "tripType": "adventure",
       "season": "spring",
-      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhY2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "duration": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
+      "duration": 3,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "كاياك في الكهوف",
+        "استكشاف شاطئي",
+        "تصوير حياتي"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: تدريب قصير على الكاياك وتجهيز السلامة.",
+        "اليوم 2: رحلة كاياك صباحية إلى الكهوف البحرية واستراحة على شاطئ منعزل.",
+        "اليوم 3: صباح حر ثم العودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t9",
+      "categories": ["c2"],
+      "title": "مهرجان الشاطئ الصيفي",
+      "tripType": "cultural",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+      "duration": 4,
+      "activities": [
+        "عروض موسيقية",
+        "تذوق مأكولات بحرية",
+        "أنشطة عائلية"
+      ],
+      "program": [
+        "اليوم 1: وصول وحفل ترحيب على الشاطئ.",
+        "اليوم 2: فعاليات ثقافية ومسابقات رياضية شاطئية.",
+        "اليوم 3: عروض موسيقية ومساء احتفالي.",
+        "اليوم 4: إفطار ومغادرة."
       ],
       "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t10",
+      "categories": ["c2"],
+      "title": "رحلة صيد وحياة بحرية",
+      "tripType": "activities",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+      "duration": 2,
+      "activities": [
+        "رحلة صيد قصيرة",
+        "تعليم تنظيف السمك",
+        "طهي على الشاطئ"
+      ],
+      "program": [
+        "اليوم 1: مغادرة قارب الصيد مع مرشد محلي وتجربة الصيد.",
+        "اليوم 2: تنظيف السمك وورشة طبخ وغداء وداعاً."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t11",
+      "categories": ["c3"],
+      "title": "شارع الزمن — جولة في المدينة القديمة",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b",
+      "duration": 3,
+      "activities": [
+        "جولة تاريخية",
+        "زيارة متاحف",
+        "تذوق مأكولات الشارع"
+      ],
+      "program": [
+        "اليوم 1: استقبال وجولة أولية في السوق القديم.",
+        "اليوم 2: زيارة متحف محلي وقلعة وبرنامج سرد تاريخي.",
+        "اليوم 3: جولات تسوق ووداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t12",
+      "categories": ["c3"],
+      "title": "ممرات الأبراج والقصور",
+      "tripType": "exploration",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1505765055123-3d3f3f9d1f6a",
+      "duration": 4,
+      "activities": [
+        "جولة أثرية",
+        "زيارة معالم تاريخية",
+        "جلسة تصوير في أزقة قديمة"
+      ],
+      "program": [
+        "اليوم 1: وصول وجولة ليلية خفيفة في الأزقة.",
+        "اليوم 2: صباح زيارة القصر الرئيسي ومسجد أثري.",
+        "اليوم 3: ورشة حِرف يدوية وتجربة أطعمة محلية.",
+        "اليوم 4: زيارة سوق التحف والمغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t13",
+      "categories": ["c3"],
+      "title": "ليالي المدينة التاريخية",
+      "tripType": "retreat",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1505765055123-3d3f3f9d1f6a?auto=format&fit=crop&w=800&q=60",
+      "duration": 5,
+      "activities": [
+        "جولات ليلية",
+        "عشاء بتقليد محلي",
+        "محاضرة تاريخية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وللتعارف مع جولة ليلية قصيرة.",
+        "اليوم 2: محاضرة عن تاريخ المدينة ثم جولة في المتاحف.",
+        "اليوم 3: زيارة معالم بعيدة وخيارات ترفيهية.",
+        "اليوم 4: ورشة طهي تقليدي وعشاء احتفالي.",
+        "اليوم 5: وداع والعودة."
+      ],
+      "isInSummer": false,
       "isForFamilies": false,
       "isInWinter": true
     },
     {
-      "id": "m9",
+      "id": "t14",
       "categories": ["c3"],
-      "title": "شاطىء الصخور",
-      "tripType": "exploration",
-      "season": "summer",
-      "imageUrl": "https://images.unsplash.com/photo-1519602035691-16ac091344ef?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjE1fHxiZWFjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 45,
+      "title": "أسواق وحكايا",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+      "duration": 2,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "تسوق في الأسواق التقليدية",
+        "تذوق مأكولات محلية"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: جولة سوق كبيرة مع دليل وتذوق مأكولات الشارع.",
+        "اليوم 2: زيارة بيت تقليدي وتحضير أكلة تقليدية مع العائلة المضيفة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t15",
+      "categories": ["c3"],
+      "title": "تاريخ على الأقدام",
+      "tripType": "walking",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1505765055123-3d3f3f9d1f6a?auto=format&fit=crop&w=900&q=60",
+      "duration": 3,
+      "activities": [
+        "جولة مشي تاريخية",
+        "زيارة متاحف صغيرة"
+      ],
+      "program": [
+        "اليوم 1: جولة تعريفية بأشهر المعالم.",
+        "اليوم 2: مشي عبر الحي القديم مع توقف في معارض محلية.",
+        "اليوم 3: جلسة قهوة وداع."
       ],
       "isInSummer": true,
       "isForFamilies": false,
       "isInWinter": false
     },
     {
-      "id": "m10",
+      "id": "t16",
       "categories": ["c4"],
-      "title": "الصحراء الكبرى",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzZXJ0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "duration": 30,
+      "title": "ليالي الصحراء العربية",
+      "tripType": "camping",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1470240721273-7821a6eeb6bd",
+      "duration": 4,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "تخييم في الكثبان",
+        "ركوب جمال",
+        "أمسيات بدوية"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: الانطلاق بالدفع الرباعي نحو المخيم.",
+        "اليوم 2: ركوب الجمال وصعود للكثبان لرؤية الغروب.",
+        "اليوم 3: ورشة طبخ بدوي وحفل موسيقي بسيط.",
+        "اليوم 4: شروق واختتام والعودة."
       ],
-      "isInSummer": true,
+      "isInSummer": false,
       "isForFamilies": true,
-      "isInWinter": true
+      "isInWinter": false
     },
     {
-      "id": "m11",
-      "categories": ["c4", "c1"],
-      "title": "الصحراء الغربية",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fHRyYXZlbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
-      "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
-      ],
-      "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
-      ],
-      "isInSummer": true,
-      "isForFamilies": true,
-      "isInWinter": true
-    },
-    {
-      "id": "m12",
+      "id": "t17",
       "categories": ["c4"],
-      "title": "الصحراء الرملية",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1452022582947-b521d8779ab6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8ODN8fGRlc2VydHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
+      "title": "صحراء النجوم",
+      "tripType": "stargazing",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=60",
+      "duration": 3,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "مراقبة النجوم",
+        "سرد قصص بدوية",
+        "تصوير ليل"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: الوصول للمخيم وتعريف بالأماكن الآمنة.",
+        "اليوم 2: جلسة مشاهدة نجوم مع مرشد فلكي وقهوة بدوية.",
+        "اليوم 3: نشاط تصوير ليلي وعودة."
       ],
-      "isInSummer": true,
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t18",
+      "categories": ["c4"],
+      "title": "سفاري الكثبان بالدراجات",
+      "tripType": "adventure",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=60",
+      "duration": 2,
+      "activities": [
+        "دراجات صحراوية",
+        "تحدي التلال الرملية"
+      ],
+      "program": [
+        "اليوم 1: تدريب على الدراجة وصعود التلال الرملية.",
+        "اليوم 2: مسار مغلق للمهارات والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t19",
+      "categories": ["c4"],
+      "title": "رحلة القوافل التاريخية",
+      "tripType": "cultural",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+      "duration": 5,
+      "activities": [
+        "زيارة مواقع أثرية",
+        "تعلم حكايا القوافل",
+        "تذوق مأكولات بدوية"
+      ],
+      "program": [
+        "اليوم 1: استقبال ومحاضرة عن طرق القوافل القديمة.",
+        "اليوم 2: زيارة موقع أثري صغير وجولة مرشدة.",
+        "اليوم 3: تجربة الحياة البدوية في مخيم تقليدي.",
+        "اليوم 4: نزهة صباحية ومشاركة أنشطة محلية.",
+        "اليوم 5: وداع والعودة."
+      ],
+      "isInSummer": false,
       "isForFamilies": true,
       "isInWinter": true
     },
     {
-      "id": "m13",
+      "id": "t20",
+      "categories": ["c4"],
+      "title": "التخييم الفاخر في الواحة",
+      "tripType": "luxury",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+      "duration": 3,
+      "activities": [
+        "تخييم فاخر",
+        "عشاء بنكهة محلية",
+        "جلسات استرخاء"
+      ],
+      "program": [
+        "اليوم 1: وصول إلى الواحة واستقبال فاخر.",
+        "اليوم 2: أنشطة بطيئة مع جلسة سبا مسائية خارجية.",
+        "اليوم 3: فطور وداعي."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t21",
       "categories": ["c5"],
-      "title": "المدينة الأولى",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1498307833015-e7b400441eb8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDJ8fHRyYXZlbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
+      "title": "ممرات الغابة المطيرة",
+      "tripType": "exploration",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1000&q=60",
+      "duration": 5,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "مشي في الغابة",
+        "مراقبة الحياة البرية",
+        "زيارة شلالات"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: وصول إلى مخيم الغابة وتقديم إرشادات السلامة.",
+        "اليوم 2: مسار صباحي إلى شلال مجاور مع غداء في الهواء الطلق.",
+        "اليوم 3: جولة تعلم عن النباتات المحلية واستخداماتها.",
+        "اليوم 4: رحلة بالقوارب في مجرى صغير ومراقبة طيور.",
+        "اليوم 5: تفكيك المخيم والعودة."
       ],
       "isInSummer": true,
       "isForFamilies": true,
-      "isInWinter": true
+      "isInWinter": false
     },
     {
-      "id": "m14",
+      "id": "t22",
       "categories": ["c5"],
-      "title": "المدينة الثانية",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjR8fHRyYXZlbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
+      "title": "مغامرة الأدغال الليلية",
+      "tripType": "adventure",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=60",
+      "duration": 3,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "جولة ليلية",
+        "تعلم عن الحشرات والنباتات الليلية"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: وصول وتعريف بالأدغال وقواعد السلوك الليلي.",
+        "اليوم 2: جولة ليلية مع مرشد مختص للتعرف على الكائنات الليلية.",
+        "اليوم 3: نشاط صباحي خفيف ثم مغادرة."
       ],
-      "isInSummer": true,
-      "isForFamilies": true,
-      "isInWinter": true
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
     },
     {
-      "id": "m15",
+      "id": "t23",
       "categories": ["c5"],
-      "title": "المدينة القديمة",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1519923041107-e4dc8d9193da?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njd8fG9sZCUyMGNpdHl8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
+      "title": "رحلة الينابيع المخفية",
+      "tripType": "relaxation",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+      "duration": 4,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "الاسترخاء بجانب الينابيع",
+        "علاجات طبيعية"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: استقبال وجولة تعريفية بالينابيع.",
+        "اليوم 2: صباح للاسترخاء وعلاج طبيعي بسيط.",
+        "اليوم 3: جولة قصيرة واستكشاف نباتي.",
+        "اليوم 4: وداع والعودة."
       ],
-      "isInSummer": true,
+      "isInSummer": false,
       "isForFamilies": true,
-      "isInWinter": true
+      "isInWinter": false
     },
     {
-      "id": "m16",
+      "id": "t24",
+      "categories": ["c5"],
+      "title": "مسار الأشجار العتيقة",
+      "tripType": "education",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=60",
+      "duration": 2,
+      "activities": [
+        "جولة تعليمية",
+        "ورشة عمل نباتية"
+      ],
+      "program": [
+        "اليوم 1: جولة تعليمية حول أنواع الأشجار المحلية.",
+        "اليوم 2: ورشة عمل لصنع منتجات طبيعية بسيطة وعودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t25",
+      "categories": ["c5"],
+      "title": "مغامرة القمم الخضراء",
+      "tripType": "hiking",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+      "duration": 6,
+      "activities": [
+        "تمشية يومية",
+        "تخييم بسيط",
+        "طقوس غروب"
+      ],
+      "program": [
+        "اليوم 1: استقبال والتعرف على الممرات.",
+        "اليوم 2: مشي صباحي والانعزال لمراقبة الطيور.",
+        "اليوم 3: الوصول إلى مخيم وإعداد عشاء مشترك.",
+        "اليوم 4: نشاط تصوير نباتي.",
+        "اليوم 5: نزول تدريجي من الجبل.",
+        "اليوم 6: وداع."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t26",
       "categories": ["c6"],
-      "title": "رياضة التثلج",
-      "tripType": "activities",
-      "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2tpaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
+      "title": "جزر المرجان — استكشاف الجزيرة",
+      "tripType": "exploration",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "duration": 7,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "استكشاف الجزيرة",
+        "سباحة مع السلاحف",
+        "عشاء شواء على الشاطئ"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: وصول إلى الجزيرة واستلام الكوخ البحري.",
+        "اليوم 2: قوارب صغيرة ورؤية السلاحف البحرية.",
+        "اليوم 3: رحلة غوص سطحي وتجربة طعام محلي.",
+        "اليوم 4: يوم حر واختيار نشاطات اختيارية.",
+        "اليوم 5: جولة جزيرة بالطائرة الشراعية البسيطة.",
+        "اليوم 6: فعالية بيئية لتنظيف الشاطئ.",
+        "اليوم 7: وداع ومغادرة."
       ],
       "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t27",
+      "categories": ["c6"],
+      "title": "الشاطىء الاستوائي الخاص",
+      "tripType": "luxury",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=60",
+      "duration": 5,
+      "activities": [
+        "إقامة فندقية فاخرة",
+        "عشاء روماني على الشاطئ",
+        "جلسات سبا"
+      ],
+      "program": [
+        "اليوم 1: استقبال فخم وخدمة خاصة على الشاطئ.",
+        "اليوم 2: جلسة سبا صباحية وتصفح الجزيرة بالقارب.",
+        "اليوم 3: نشاطات مائية يومية واسترخاء.",
+        "اليوم 4: تجربة طبخ محلية مع الشيف.",
+        "اليوم 5: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t28",
+      "categories": ["c6"],
+      "title": "رحلة الصيادين القديمة",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=800&q=60",
+      "duration": 3,
+      "activities": [
+        "مرافقة صيادين محليين",
+        "تعلم طرق شبكة الصيد",
+        "طهي السمك التقليدي"
+      ],
+      "program": [
+        "اليوم 1: انطلاق مع القوارب المحلية صباحاً.",
+        "اليوم 2: تعلم طرق الصيد التقليدية وتنظيف السمك.",
+        "اليوم 3: طبخ جماعي على الشاطئ ووداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t29",
+      "categories": ["c6"],
+      "title": "رحلة الغوص الليلي",
+      "tripType": "adventure",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf?auto=format&fit=crop&w=900&q=60",
+      "duration": 2,
+      "activities": [
+        "غوص ليلي",
+        "مراقبة الأحياء البحرية الليلية"
+      ],
+      "program": [
+        "اليوم 1: تدريب وتحضير معدات الغوص الليلي.",
+        "اليوم 2: غوص ليلي مع مشاهد ليلية وشعاب مضيئة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t30",
+      "categories": ["c6"],
+      "title": "استجمام الجزيرة الصغيرة",
+      "tripType": "relaxation",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c",
+      "duration": 4,
+      "activities": [
+        "قراءة واستجمام",
+        "مشي شاطئي",
+        "جلسات طهي محلية"
+      ],
+      "program": [
+        "اليوم 1: استقبال ووضع حقائبك في كوخ مبني على الشاطئ.",
+        "اليوم 2: صباح هادئ ومساج بعد الظهر.",
+        "اليوم 3: ورشة طهي محلية وتجربة مأكولات الجزيرة.",
+        "اليوم 4: وداع والعودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t31",
+      "categories": ["c7"],
+      "title": "تزلج القمم البيضاء",
+      "tripType": "adventure",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1516569422535-d6f6309f3bde",
+      "duration": 6,
+      "activities": [
+        "تزلج على منحدرات متوسطة",
+        "دروس تزلج",
+        "حفلات ليلية في المنتجع"
+      ],
+      "program": [
+        "اليوم 1: وصول وتجهيز تذاكر المصاعد ودروس تمهيدية.",
+        "اليوم 2: درس تزلج صباحي ومسار تدريبي.",
+        "اليوم 3: رحلة تزلج كاملة مع مرشد.",
+        "اليوم 4: يوم حر وتجربة مطعم جبلي.",
+        "اليوم 5: تزلج صباحي ومشاهد غروب.",
+        "اليوم 6: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t32",
+      "categories": ["c7"],
+      "title": "مغامرة الزلاجات العائلية",
+      "tripType": "family",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6",
+      "duration": 4,
+      "activities": [
+        "زلاجات للأطفال",
+        "تزلج عائلي",
+        "قهوة وحلوى بعد التزلج"
+      ],
+      "program": [
+        "اليوم 1: استقبال عائلي وتعريف بالأمان.",
+        "اليوم 2: دروس للأطفال وتجربة تزلج عائلية.",
+        "اليوم 3: أنشطة ثلجية ومسابقات بسيطة.",
+        "اليوم 4: وداع."
+      ],
+      "isInSummer": false,
       "isForFamilies": true,
       "isInWinter": true
     },
     {
-      "id": "m17",
-      "categories": ["c6", "c2"],
-      "title": "القفز المظلي",
-      "tripType": "activities",
+      "id": "t33",
+      "categories": ["c7"],
+      "title": "ليلة على حافة الجليد",
+      "tripType": "expedition",
       "season": "winter",
-      "imageUrl": "https://images.unsplash.com/photo-1601024445121-e5b82f020549?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBhcmFjaHV0ZSUyMGp1bXBpbmd8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-      "duration": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1000&q=60",
+      "duration": 3,
       "activities": [
-        "زيارة المواقع الأثرية",
-        "جولة سياحية على الأقدام",
-        "زيارة المراكز التجارية للتبضع",
-        "تناول وجبة الغداء",
-        "استمتاع المناظر الجملية"
+        "مخيم جليدي",
+        "رحلات قصيرة على الثلج"
       ],
       "program": [
-        "أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "يسكينج أليايت سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا.",
-        "لوريم ايبسوم دولار ات دولار ماجنا أليكيوا.",
-        "لور دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا."
+        "اليوم 1: انتقال إلى موقع المخيم وتجهيز الدفايات.",
+        "اليوم 2: جولة على الجليد مع دليل ومحاضرة عن البيئة الباردة.",
+        "اليوم 3: تفكيك ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t34",
+      "categories": ["c7"],
+      "title": "تعلم تزلج الجبال",
+      "tripType": "training",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=800&q=60",
+      "duration": 7,
+      "activities": [
+        "دروس مكثفة للتزلج",
+        "تقييم شامل"
+      ],
+      "program": [
+        "اليوم 1: فحوصات معدات ودروس أساسية.",
+        "اليوم 2-5: تدريب يومي متدرج مع تمارين لياقة.",
+        "اليوم 6: يوم تطبيق عملي في منحدر متوسط.",
+        "اليوم 7: تقييم وشهادة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t35",
+      "categories": ["c7"],
+      "title": "رحلة ثلج وسبا",
+      "tripType": "relaxation",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1516569422535-d6f6309f3bde?auto=format&fit=crop&w=900&q=60",
+      "duration": 4,
+      "activities": [
+        "سبا جبلي",
+        "حمامات ساخنة",
+        "جولات ثلجية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وخدمة سبا مسائية.",
+        "اليوم 2: نشاطات خفيفة في الثلج ثم سبا.",
+        "اليوم 3: رحلة مشي في روعة الثلج والمساج المسائي.",
+        "اليوم 4: فطور وداعي."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": true
+    },
+    {
+      "id": "t36",
+      "categories": ["c8"],
+      "title": "قوارب الندى — بحيرة الزمرد",
+      "tripType": "exploration",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "duration": 3,
+      "activities": [
+        "ركوب قارب",
+        "تجديف",
+        "صيد بسيط"
+      ],
+      "program": [
+        "اليوم 1: وصول وترتيب القوارب والدورات التعليمية.",
+        "اليوم 2: رحلة بالقارب عبر البحيرة وتوقف للسباحة.",
+        "اليوم 3: صباح للتجديف ثم عودة."
       ],
       "isInSummer": true,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t37",
+      "categories": ["c8"],
+      "title": "نزهة نهرية وقرى ضفاف",
+      "tripType": "cultural",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+      "duration": 4,
+      "activities": [
+        "زيارة قرى الضفاف",
+        "تذوق مأكولات محلية",
+        "جولة بالقارب"
+      ],
+      "program": [
+        "اليوم 1: لقاء بالميناء والانتقال إلى القرى المجاورة.",
+        "اليوم 2: استكشاف الأسواق وتجربة أكلات محلية.",
+        "اليوم 3: رحلة بالقارب ونزهة غداء.",
+        "اليوم 4: عودة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t38",
+      "categories": ["c8"],
+      "title": "مغامرة التجديف الطويلة",
+      "tripType": "adventure",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=800&q=60",
+      "duration": 5,
+      "activities": [
+        "تجديف متواصل",
+        "معسكرات ليلية",
+        "استكشاف خليج صغير"
+      ],
+      "program": [
+        "اليوم 1: تدريب وتجهيز قوارب الكاياك.",
+        "اليوم 2: تجديف 12 كم والتخييم على الضفة.",
+        "اليوم 3: استكمال المسار وزيارات طبيعية.",
+        "اليوم 4: استراحة وأنشطة صيد بسيطة.",
+        "اليوم 5: الانتهاء والعودة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t39",
+      "categories": ["c8"],
+      "title": "بحيرة الربيع الهادئة",
+      "tripType": "relaxation",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=60",
+      "duration": 2,
+      "activities": [
+        "استجمام",
+        "قراءة على الضفة"
+      ],
+      "program": [
+        "اليوم 1: وصول واسترخاء على الضفة.",
+        "اليوم 2: صباح هادئ ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t40",
+      "categories": ["c8"],
+      "title": "صيد الفجر والنسمات",
+      "tripType": "activities",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=60",
+      "duration": 3,
+      "activities": [
+        "صيد فجر",
+        "تحضير الوجبة بالصيد"
+      ],
+      "program": [
+        "اليوم 1: استعداد مبكر للتحرك مع قارب الصيد.",
+        "اليوم 2: تجربة الصيد وتحضير وجبة من الصيد.",
+        "اليوم 3: وداع."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t41",
+      "categories": ["c9"],
+      "title": "مهرجان التوابل والفنون",
+      "tripType": "cultural",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&w=900&q=60",
+      "duration": 3,
+      "activities": [
+        "أسواق توابل",
+        "ورش حرفية",
+        "عروض فلكلورية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وزيارة سوق التوابل المحلي.",
+        "اليوم 2: حضور ورش صناعة الحرف ومشاهدة عروض موسيقية.",
+        "اليوم 3: نشاطات ختامية ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t42",
+      "categories": ["c9"],
+      "title": "ورشة طهي ومأكولات الشارع",
+      "tripType": "workshop",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
+      "duration": 2,
+      "activities": [
+        "ورشة طهي",
+        "تذوق مأكولات الشارع"
+      ],
+      "program": [
+        "اليوم 1: تعلم وصفة محلية مشهورة مع طاهي محلي.",
+        "اليوم 2: زيارة أماكن بيع الشوارع وتجربة أطباق مصغرة."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t43",
+      "categories": ["c9"],
+      "title": "رحلة مسار الفن الشعبي",
+      "tripType": "cultural",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&w=800&q=60",
+      "duration": 4,
+      "activities": [
+        "معارض فنية",
+        "لقاءات مع فنانين"
+      ],
+      "program": [
+        "اليوم 1: استقبال وزيارة معرض محلي.",
+        "اليوم 2: لقاء مع فنان محلي وورشة صغيرة.",
+        "اليوم 3: جولة في أحياء فنية.",
+        "اليوم 4: نشاط ختامي ومغادرة."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t44",
+      "categories": ["c9"],
+      "title": "أيام التراث — قصص وأغنيات",
+      "tripType": "cultural",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=60",
+      "duration": 3,
+      "activities": [
+        "حكايات قبل النوم",
+        "سهرة موسيقية"
+      ],
+      "program": [
+        "اليوم 1: استقبال وحكايات من كبار السن عن تاريخ المنطقة.",
+        "اليوم 2: ورشة موسيقية شعبية ومساء احتفالي.",
+        "اليوم 3: وداع."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": true
+    },
+    {
+      "id": "t45",
+      "categories": ["c9"],
+      "title": "سوق الأحد — تجربة محلية",
+      "tripType": "market",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&w=1000&q=60",
+      "duration": 1,
+      "activities": [
+        "تسوق محلي",
+        "تذوق مأكولات سريعة"
+      ],
+      "program": [
+        "اليوم 1: جولة سوق صباحية ولقاءات مع البائعين وتذوق لذيذ."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t46",
+      "categories": ["c10"],
+      "title": "سفاري الأسرة — يوم كامل",
+      "tripType": "safari",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=900&q=60",
+      "duration": 1,
+      "activities": [
+        "مراقبة الحيوانات",
+        "مشروب غداء في المخيم"
+      ],
+      "program": [
+        "اليوم 1: انطلاق صباحي بسيارة سفاري لاصطياد اللحظات الطبيعية ثم عودة بعد الغداء."
+      ],
+      "isInSummer": false,
+      "isForFamilies": true,
+      "isInWinter": false
+    },
+    {
+      "id": "t47",
+      "categories": ["c10"],
+      "title": "مغامرة السافانا لثلاثة أيام",
+      "tripType": "expedition",
+      "season": "summer",
+      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=1000&q=60",
+      "duration": 3,
+      "activities": [
+        "رحلات صباحية لمشاهدة الحيوانات",
+        "معسكر ليلي"
+      ],
+      "program": [
+        "اليوم 1: انتقال لمخيم السافانا وإعداد المكان.",
+        "اليوم 2: رحلات صباحية ومسائية لمراقبة الحيوانات.",
+        "اليوم 3: صباح حر وانتهاء."
+      ],
+      "isInSummer": true,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t48",
+      "categories": ["c10"],
+      "title": "طريق الطيور — سفاري الطيور النادرة",
+      "tripType": "wildlife",
+      "season": "spring",
+      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=900&q=60",
+      "duration": 4,
+      "activities": [
+        "مراقبة طيور",
+        "جلسات تصوير"
+      ],
+      "program": [
+        "اليوم 1: استقبال وتعريف بخريطة الطيور المحلية.",
+        "اليوم 2: رحلات صباحية لمواقع الطيور النادرة.",
+        "اليوم 3: ورشة تصوير طيور ومتابعة لهوايات المشاركين.",
+        "اليوم 4: ملخص ونهاية."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t49",
+      "categories": ["c10"],
+      "title": "سفاري الصور — ملتقى المصورين",
+      "tripType": "photography",
+      "season": "autumn",
+      "imageUrl": "https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=900&q=60",
+      "duration": 5,
+      "activities": [
+        "جلسات تصوير",
+        "تبادل خبرات"
+      ],
+      "program": [
+        "اليوم 1: تعرف ومشاركة المعدات.",
+        "اليوم 2-4: رحلات تصوير صباحية ومسائية مع تقيّيم.",
+        "اليوم 5: معرض مصغر لأفضل اللقطات."
+      ],
+      "isInSummer": false,
+      "isForFamilies": false,
+      "isInWinter": false
+    },
+    {
+      "id": "t50",
+      "categories": ["c10"],
+      "title": "رحلة السافانا الهادئة",
+      "tripType": "relaxation",
+      "season": "winter",
+      "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=800&q=60",
+      "duration": 2,
+      "activities": [
+        "استرخاء في المخيم",
+        "جولات قصيرة"
+      ],
+      "program": [
+        "اليوم 1: وصول لمخيم هادئ وجولة مسائية قصيرة.",
+        "اليوم 2: صباح هادئ ومغادرة."
+      ],
+      "isInSummer": false,
       "isForFamilies": true,
       "isInWinter": true
     }
